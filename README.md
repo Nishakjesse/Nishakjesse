@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nishakjesse
-- 👀 I’m interested in front and back end with special interest in blockchain tech
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on JavaScript
+- 👀 I’m interested in mainly backend coding language with special interest in blockchain tech
+- 🌱 I’m currently learning python and will like to solidfy my solidity and and C++
 - 📫 How to reach me nsemshak@gmail.com
 
 <!---
