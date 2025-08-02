@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishakjesse
 - 👀 I’m interested in mainly backend coding language with special interest in blockchain tech
-- 🌱 I’m currently learning python and will like to solidfy my solidity and and C++
+- 🌱 I’m currently learning python and will like to solidfy my solidity and C++
 - 📫 How to reach me nsemshak@gmail.com
 
 <!---
